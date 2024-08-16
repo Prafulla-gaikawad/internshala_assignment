@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Prafulla-gaikawad/internshala_assignment.git/static/css/main.8aaf8980.css",
-    "main.js": "/Prafulla-gaikawad/internshala_assignment.git/static/js/main.4f2603f6.js",
-    "static/js/453.ed3810f9.chunk.js": "/Prafulla-gaikawad/internshala_assignment.git/static/js/453.ed3810f9.chunk.js",
-    "static/media/picc.png": "/Prafulla-gaikawad/internshala_assignment.git/static/media/picc.3487c4961af044598761.png",
-    "static/media/logo.png": "/Prafulla-gaikawad/internshala_assignment.git/static/media/logo.e2ce481ce88046f84341.png",
-    "static/media/pica.png": "/Prafulla-gaikawad/internshala_assignment.git/static/media/pica.dbf980b0e7dd7aa1e482.png",
-    "static/media/picb.png": "/Prafulla-gaikawad/internshala_assignment.git/static/media/picb.7e22cfcaaead7f90130a.png",
-    "index.html": "/Prafulla-gaikawad/internshala_assignment.git/index.html",
-    "main.8aaf8980.css.map": "/Prafulla-gaikawad/internshala_assignment.git/static/css/main.8aaf8980.css.map",
-    "main.4f2603f6.js.map": "/Prafulla-gaikawad/internshala_assignment.git/static/js/main.4f2603f6.js.map",
-    "453.ed3810f9.chunk.js.map": "/Prafulla-gaikawad/internshala_assignment.git/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/internshala_assignment/static/css/main.8aaf8980.css",
+    "main.js": "/internshala_assignment/static/js/main.c085aa72.js",
+    "static/js/453.ed3810f9.chunk.js": "/internshala_assignment/static/js/453.ed3810f9.chunk.js",
+    "static/media/picc.png": "/internshala_assignment/static/media/picc.3487c4961af044598761.png",
+    "static/media/logo.png": "/internshala_assignment/static/media/logo.e2ce481ce88046f84341.png",
+    "static/media/pica.png": "/internshala_assignment/static/media/pica.dbf980b0e7dd7aa1e482.png",
+    "static/media/picb.png": "/internshala_assignment/static/media/picb.7e22cfcaaead7f90130a.png",
+    "index.html": "/internshala_assignment/index.html",
+    "main.8aaf8980.css.map": "/internshala_assignment/static/css/main.8aaf8980.css.map",
+    "main.c085aa72.js.map": "/internshala_assignment/static/js/main.c085aa72.js.map",
+    "453.ed3810f9.chunk.js.map": "/internshala_assignment/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8aaf8980.css",
-    "static/js/main.4f2603f6.js"
+    "static/js/main.c085aa72.js"
   ]
 }
